@@ -1,3 +1,3 @@
 # Exercise Resolution
 
-https://i.ibb.co/BzZd7P1/webscrapingresolution.png
+![exercise resolution](https://i.ibb.co/BzZd7P1/webscrapingresolution.png)
